@@ -1,4 +1,4 @@
-**Web Automation:** Utilizes Selenium WebDriver to interact with the Erail application, including entering station names and retrieving autocomplete suggestions. <br>
+**Web Automation:** Uses Selenium WebDriver to interact with the Erail application, including entering station names and retrieving autocomplete suggestions. <br>
 **Page Object Model (POM):** Implements the Page Object Model design pattern to separate web elements and their interactions from the test logic, enhancing code maintainability and readability.<br>
 **Excel Integration:** Uses Apache POI to read and write data to an Excel file, facilitating the comparison of actual and expected values. <br>
 **Dynamic Waiting:** Replaces hardcoded sleep statements with WebDriverWait to ensure elements are visible before interacting with them, improving test reliability. <br>
